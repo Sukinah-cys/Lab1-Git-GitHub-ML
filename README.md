@@ -1,7 +1,6 @@
 # Lab1-Git-GitHub-ML
 
-Hi
-My name is Sukinah Alhumaidi.
+Hi, my name is Sukinah Alhumaidi.
 
 I am a Cybersecurity & Digital Forensics student with a strong interest in technology, system security, and data-driven solutions. My academic background focuses on cybersecurity and digital forensics, and I am particularly interested in Machine Learning due to its growing importance in security analytics, threat detection, and intelligent decision-making systems.
 
